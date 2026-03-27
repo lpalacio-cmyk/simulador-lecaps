@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/api/letras", "destination": "https://argentinadatos.com/v1/finanzas/letras" },
+    { "source": "/api/precios", "destination": "https://data912.com/live/arg_notes" },
+    { "source": "/api/dolar-mep", "destination": "https://dolarapi.com/v1/dolares/bolsa" },
+    { "source": "/api/dolar-ccl", "destination": "https://dolarapi.com/v1/dolares/contadoconliqui" }
+  ]
+}
